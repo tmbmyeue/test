@@ -1,3 +1,6 @@
+
+|words or sentence|meaning|
+|---|---|
 |azimuth||
 |permittivity||
 |The flight direction ia denoted as azimuth and the line-of sight as slant range direction.||
